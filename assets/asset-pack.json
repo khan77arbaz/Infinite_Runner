@@ -1,0 +1,118 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/animations/animations.json",
+                "type": "animation",
+                "key": "animations"
+            },
+            {
+                "url": "assets/images/character.png",
+                "type": "image",
+                "key": "character"
+            },
+            {
+                "url": "assets/images/Full-BG.png",
+                "type": "image",
+                "key": "Full-BG"
+            },
+            {
+                "url": "assets/sprites/jump/j1.png",
+                "type": "image",
+                "key": "j1"
+            },
+            {
+                "url": "assets/sprites/jump/j2.png",
+                "type": "image",
+                "key": "j2"
+            },
+            {
+                "url": "assets/sprites/jump/j3.png",
+                "type": "image",
+                "key": "j3"
+            },
+            {
+                "url": "assets/sprites/jump/j4.png",
+                "type": "image",
+                "key": "j4"
+            },
+            {
+                "url": "assets/sprites/jump/j5.png",
+                "type": "image",
+                "key": "j5"
+            },
+            {
+                "url": "assets/sprites/jump/j6.png",
+                "type": "image",
+                "key": "j6"
+            },
+            {
+                "url": "assets/sprites/jump/j7.png",
+                "type": "image",
+                "key": "j7"
+            },
+            {
+                "url": "assets/images/P1.png",
+                "type": "image",
+                "key": "P1"
+            },
+            {
+                "url": "assets/images/P2.png",
+                "type": "image",
+                "key": "P2"
+            },
+            {
+                "url": "assets/images/P3.png",
+                "type": "image",
+                "key": "P3"
+            },
+            {
+                "url": "assets/sprites/run/r1.png",
+                "type": "image",
+                "key": "r1"
+            },
+            {
+                "url": "assets/sprites/run/r2.png",
+                "type": "image",
+                "key": "r2"
+            },
+            {
+                "url": "assets/sprites/run/r3.png",
+                "type": "image",
+                "key": "r3"
+            },
+            {
+                "url": "assets/sprites/run/r4.png",
+                "type": "image",
+                "key": "r4"
+            },
+            {
+                "url": "assets/sprites/run/r5.png",
+                "type": "image",
+                "key": "r5"
+            },
+            {
+                "url": "assets/sprites/run/r6.png",
+                "type": "image",
+                "key": "r6"
+            },
+            {
+                "url": "assets/sprites/run/r7.png",
+                "type": "image",
+                "key": "r7"
+            },
+            {
+                "url": "assets/sprites/run/r8.png",
+                "type": "image",
+                "key": "r8"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
